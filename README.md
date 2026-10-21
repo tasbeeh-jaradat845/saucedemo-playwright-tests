@@ -133,6 +133,10 @@ This project focuses on login and access to the inventory page. It does not curr
 
 The tests exercise an externally hosted demo application. Execution depends on its availability and behavior. Browser configurations and test counts describe the suite's intended execution; passing results should be checked in a specific local or CI run.
 
+## Sample test execution
+
+![Playwright test execution results](test-results.png)
+
 ## Author
 
 [Tasbeeh Jaradat](https://github.com/tasbeeh-jaradat845) — QA Engineer and independent Playwright learner.
